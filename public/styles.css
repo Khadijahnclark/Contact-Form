@@ -554,6 +554,10 @@ video {
   --tw-contain-style:  ;
 }
 
+.hidden {
+  display: none;
+}
+
 .bg-orange-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(234 88 12 / var(--tw-bg-opacity));
